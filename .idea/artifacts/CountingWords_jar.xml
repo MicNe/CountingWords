@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CountingWords:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CountingWords_jar</output-path>
+    <root id="archive" name="CountingWords.jar">
+      <element id="module-output" name="CountingWords" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
